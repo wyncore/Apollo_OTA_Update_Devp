@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.3.6",
+  "versionCode": 37,
+  "versionName": "1.3.7",
   "apkUrl": "https://raw.githubusercontent.com/wyncore/Apollo_OTA_Update_Devp/refs/heads/master/app-update.apk",
   "sha256": "9a350bbb7c03a4dabe89b2cd32a1f77c4c0b591ff70aef071a330172111d36a5",
   "mandatory": true
